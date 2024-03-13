@@ -1,6 +1,7 @@
-## <div align="center">Oiii eu sou o Yann!<img alt="Waving hand" height="30" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> Sou desenvolvedor web full stack ✨</div>
-
-### <div align="center">💻 Linguagens e Ferramentas</div>
+### <div align="center"><span style="font-size: 24px;">Oiii eu sou o Yann!<img alt="Waving hand" height="30" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> Sou desenvolvedor web full stack ✨</span></div>
+### <div align="center"><span style="font-size: 24px;">Hi, I'm Yann! I'm a full stack web developer ✨</span></div>
+---
+### <div align="center">💻 Linguagens e Ferramentas / Languages and Tools 💻</div>
 
 <div style="display: inline_block" align="center">
 <img alt="Yann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +19,7 @@
 <img alt="Yann-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg">
 </div>
   
-  ##
+---
 
   <div align="center">
      <a href = "mailto:yanngsb.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
