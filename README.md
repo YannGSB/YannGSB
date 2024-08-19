@@ -4,6 +4,7 @@
 ### <div align="center">💻 Linguagens e Ferramentas / Languages and Tools 💻</div>
 
 <div style="display: inline_block" align="center">
+<img alt="Yann-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 <img alt="Yann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Yann-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img alt="Yann-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
