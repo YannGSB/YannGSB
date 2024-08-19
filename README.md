@@ -1,6 +1,3 @@
-### <div align="center"><span style="font-size: 24px;">Oiii eu sou o Yann!<img alt="Waving hand" height="30" width="40" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> Sou desenvolvedor web full stack ✨</span></div>
-### <div align="center"><span style="font-size: 24px;">Hi, I'm Yann! I'm a full stack web developer ✨</span></div>
----
 ### <div align="center">💻 Linguagens e Ferramentas / Languages and Tools 💻</div>
 
 <div style="display: inline_block" align="center">
